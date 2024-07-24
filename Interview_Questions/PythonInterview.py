@@ -67,6 +67,21 @@
 # 2)Iterators are used mostly to iterate or convert other objects to an iterator using iter() function. 
 # 3)Iterators uses iter() and next() function.
 # 4)Every iterator is not a generator.
+
+# Q.6)What is init keyword in python ?
+# 1)__init__.py file:
+# The __init__.py file lets the Python interpreter know that a directory contains code for a
+# Python module. It can be blank. without one, you can not import modules from another folder
+# into your project.
+# The role of the __init__.py file is similar to the __init__.py function in a python class.
+# The file essentially the constructor of your package or directory without it being called 
+# such. It sets up how packages or functions will be imported into your other files.
+
+#2)__init__() function
+# The __init__ method is similar to constructors in C++ and Java, Constructors are used to 
+# initialize the objects state.  
+
+
 # 2) Commonly Asked Question (20)
 # 3) Tricky Questions (10)
 # 4) Advance Questions (12)
