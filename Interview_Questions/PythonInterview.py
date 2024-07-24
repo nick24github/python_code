@@ -81,6 +81,9 @@
 # The __init__ method is similar to constructors in C++ and Java, Constructors are used to 
 # initialize the objects state.  
 
+# Sample class with init method 
+
+
 
 # 2) Commonly Asked Question (20)
 # 3) Tricky Questions (10)
